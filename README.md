@@ -221,7 +221,6 @@ git clone git@github.com:abhayranjansamal/docker-packer-cicd.git
 - Install the Packer Plugin and configure accordingly
 - In the Same way, Install the Ansible plugin and configure it
 - Update the webhook URL of GitHub for triggering the Jenkins
-> Similar configuration of the Jenkins and the plugins can be referred to another project:- https://github.com/ajish-antony/asg-rolling-update
 
 > Other Main Points to note that to update the packer plugin with the file that needs to perform the action
 
